@@ -1,0 +1,352 @@
+
+<!DOCTYPE html>
+
+<html lang="gl" class="no-js">
+    <head>
+        
+<title>Non atopamos esta páxina - Xornalistas</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<!-- Site info -->
+<meta name="description" content="Unha entidade para agrupar e pór en contacto os xornalistas de Galicia, ofrecerlles servizos e vantaxes colectivas e defender os dereitos da profesión.">
+<meta name="generator" content="phpCan 1.2" />
+
+<meta property="og:site_name" content="Colexio Profesional de Xornalistas de Galicia" />
+<meta property="og:url" content="http://xornalistas.gal/imxd/noticias/imx/1170757383crtvg.gif" />
+<meta property="og:locale" content="gl_ES" />
+
+<meta property="og:title" content="Non atopamos esta páxina - Xornalistas" />
+<meta property="og:description" content="Unha entidade para agrupar e pór en contacto os xornalistas de Galicia, ofrecerlles servizos e vantaxes colectivas e defender os dereitos da profesión." />
+
+
+<meta name="image" content="http://xornalistas.gal/web/templates/img/og-image.png" />
+<meta property="og:image" content="http://xornalistas.gal/web/templates/img/og-image.png" />
+<meta property="og:image:width" content="1200" />
+
+<meta property="og:image:height" content="630" />
+
+<link rel="image_src" href="http://xornalistas.gal/web/templates/img/og-image.png" />
+
+<!-- Google Chrome Frame -->
+<!--[if lt IE 9]>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+<![endif]-->
+
+<!-- Mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-icon.png">
+
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+    var htmlClasses = document.querySelector('html').classList;
+
+    htmlClasses.remove('no-js');
+    htmlClasses.add('js');
+
+    var require = {
+        config: {
+            'helpers': {
+                root: '/'
+            }
+        }
+    };
+</script>
+
+<!-- Css files -->
+
+<link href="/web/templates/components/font-awesome/css/font-awesome.min.css?1627472858" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/csans/csans.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/csans/csans.helpers.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/csans/ui/csans.ui.button.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/csans/ui/csans.ui.link.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/checkbox/jquery.alt-checkbox.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/selectize.css" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/modules/layout.css?1627463653" type="text/css" rel="stylesheet" />
+<link href="/web/templates/css/style-final.css?1627463653" type="text/css" rel="stylesheet" />
+
+
+
+
+<script type="text/javascript" data-main="/web/templates/js/main.js" data-start="" src="/web/templates/components/requirejs/require.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65420558-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+            </head>
+
+    <body class="page-">
+        
+<div class="container form-top">
+
+</div>
+
+<nav class="nav-menu-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <ul class="menu-international">
+                    <li>
+                        <a href="/info/espanol/">Sobre nosotros</a>
+                    </li>
+                    <li>
+                        <a href="/info/english/">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/info/francais/">Qui sommes-nous?</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li class="has-form">
+                        <form method="get" action="/buscar/">
+                            <div class="form-group input-group">
+                                <input type="text" class="form-control" name="q" placeholder="Buscar" value="">
+                                <button class="button button-search" type="search"><i class="fa fa-search"></i></button>
+                            </div>
+                        </form>
+                    </li>
+                                        <li>
+                        <a class="button button-secondary login" data-target=".form-top" href="/login/"><i class="fa fa-sign-in"></i> Entra</a>
+                    </li>
+                    <li>
+                        <a class="button button-primary colexiate" data-target=".form-top" href="/colexiate/">Coléxiate</a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <header class="header-main">
+                    <h1 class="image logo">
+                        <a href="/">Colexio Profesional de Xornalistas de Galicia</a>                    </h1>
+                </header>
+            </div>
+
+            <div class="col-md-8">
+                <ul class="menu-main">
+                    <li><a href="/colexio/">O Colexio</a></li>
+                    <li><a href="/novas-eventos/">Novas e axenda</a></li>
+                    <li><a href="/ferramentas/">Ferramentas</a></li>
+                    <li><a href="/biblioteca/">Biblioteca</a></li>
+                    <li><a href="/servizos/">Servizos</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+<main class="container" role="main">
+    <div class="row">
+        <div class="col-xs-12 col-md-push-2 col-md-8 col-lg-6 col-lg-push-3">
+            <article class="mlc-item-single mlc-error-single">
+                <h1 class="title main-title">Vaia, esa páxina xa non existe</h1>
+                <p class="lead">Revisa que escribiches ben o enderezo da páxina ou intenta chegar a ela a través das ligazóns da web.</p>
+                <p class="button-wrapper">
+                    <a class="button button-primary" href="/"><i class="fa fa-home"></i> Volver á portada</a>
+                </p>
+            </article>
+        </div>
+    </div>
+</main>        
+<div class="container">
+    <div class="bg-ochre">
+        <footer class="footer-main">
+            <div class="row">
+                <div class="col-lg-3 col-sm-4 col-xs-12">
+                    <div class="box-padding">
+                        <h1><a href="/novas-eventos/">Novas e axenda</a></h1>
+
+                        <ul>
+                            <li><a href="/novas-eventos/novas/">Novas</a></li>
+                            <li><a href="/novas-eventos/eventos/">Axenda</a></li>
+                        </ul>
+
+                        <h1><a href="/ferramentas/">Ferramentas</a></h1>
+
+                        <ul>
+                            <li><a href="/ferramentas/#tab-populares">Máis populares</a></li>
+                                                    </ul>
+
+                        <h1><a href="/biblioteca/">Biblioteca</a></h1>
+
+                        <ul>
+                            <li><a href="/biblioteca/#dossiers">Dossieres</a></li>
+                            <li><a href="/biblioteca/#media">Guía de medios</a></li>
+                            <li><a href="/biblioteca/#materials">Informes</a></li>
+                            <li><a href="/biblioteca/#documents">Documentación</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-4 col-xs-12">
+                    <div class="box-padding">
+                        <h1><a href="/servizos/">Servizos</a></h1>
+
+                        <ul>
+                                                        <li><a href="/servizos/apoio-legal/">Apoio legal</a></li>
+                                                        <li><a href="/servizos/carnes/">Carnés profesionais</a></li>
+                                                        <li><a href="/servizos/formacion/">Formación</a></li>
+                                                        <li><a href="/servizos/descontos/">Descontos</a></li>
+                                                        <li><a href="/servizos/comunidade/">Comunidade</a></li>
+                                                    </ul>
+
+                        <ul>
+                            <li><a href="/info/licenza/">Licenza</a></li>
+                            <li><a href="/info/aviso-legal/">Aviso legal</a></li>
+                            <li><a href="/info/politica-de-privacidade/">Política de Privacidade</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="box-padding">
+                        <h1><a href="/colexio/">O Colexio</a></h1>
+
+                        <ul>
+                            <li><a href="/colexio/organigrama/">Organigrama</a></li>
+                            <li><a href="/colexio/lei-creacion/">Lei de creación do CPXG</a></li>
+                            <li><a href="/colexio/estatutos-regulamentos/">Estatutos e regulamentos</a></li>
+                            <li><a href="/colexio/codigo-deontoloxico-galego/">Código Deontolóxico do Xornalismo Galego</a></li>
+                            <li><a href="/colexio/imaxe-corporativa/">Imaxe corporativa</a></li>
+                            <li><a href="/colexio/premios-e-certames/">Premios e proxectos</a></li>
+                        </ul>
+
+                        <h1>Contacto</h1>
+
+                        <ul>
+                            <li>Rúa Ponferrada, 9, baixo</li>
+                            <li>15707 Santiago de Compostela</li>
+                            <li>Tel. 981 935 670 / Fax 981 935 669</li>
+                            <li><a href="mailto:xornalistas@xornalistas.gal">xornalistas@xornalistas.gal</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <div class="bg-ochre-dark box-padding">
+                        <div id="subscribe">
+                            <form class="form-subscribe" method="POST">
+                                <input type="text" name="name" value="" class="hidden" />
+
+                                <div class="input-group form-group">
+                                    <label text="Subscríbete ao boletín" for="id_622f7fb63a5c0479234895">Subscríbete ao boletín</label> <input required class="form-control" name="email" id="id_622f7fb63a5c0479234895" tabindex="1" type="email" />
+                                    <input value="newsletter" name="phpcan_action" id="id_622f7fb63a5f4254506786" type="hidden" />                                    <button class="button button-primary input-group-btn" type="submit"><i class="fa fa-arrow-right"></i></button>
+                                </div>
+
+                                <div class="privacy-policy-check-expand mt-10">
+                                    <label>
+                                        <input class="checkbox privacy-checkbox" type="checkbox" name="privacy_policy" required>
+                                        Ver e aceptar o tratamento de datos                                    </label>
+
+                                    <div class="privacy-policy-explanation hidden">
+                                        <div class="g-recaptcha" data-sitekey="6LfkhNcUAAAAALi45kTpWcg5dTXNDIrQSV6XOnh-"></div>
+
+                                        <p><strong>Responsable tratamento</strong>: COLEXIO PROFESIONAL DE XORNALISTAS DE GALICIA</p>
+                                        <p><strong>Finalidade</strong>: proceder ao envío por correo electrónico de información relativa a actos e eventos de interese así como produtos e servizos.</p>
+                                        <p><strong>Lexitimación</strong>: consentemento expreso.</p>
+                                        <p><strong>Cesións</strong>: non serán cedidos a terceiros/as salvo obriga legal.</p>
+                                        <p><strong>Dereitos</strong>: acceso, rectificación, cancelación e oposición ao tratamento dos teus datos segun explícase na información adicional.</p>
+                                        <p><strong>Información adicional</strong>: Pode consultala na nosa <a href="http://xornalistas.gal/info/nota-legal/">política de privacidade</a>.</p>
+                                    </div>
+                                </div>
+
+                                <div class="error hidden"></div>
+
+                                <div class="small-text mt-10">Recibe cada venres no teu correo electrónico o boletín F5.</div>
+                            </form>
+                        </div>
+
+                        <div class="social-icons mt-30">
+                            <h1 class="title-social-icons">Séguenos en</h1>
+
+                            <ul class="social-icons-list">
+                                <li>
+                                    <a href="https://www.facebook.com/colexiodexornalistas?fref=ts" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://twitter.com/xornalistas" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.linkedin.com/company/4853661?trk=tyah&trkInfo=tarId%3A1421064691640%2Ctas%3Axornalistas%20%2Cidx%3A1-1-1" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/c/XornalistasGalicia" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/colexiodexornalistas/" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/xornalistas" target="_blank">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-telegram fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+<div class="atm-cookie-message hidden ui-cookies"><p>Utilizamos cookies para mellorar os nosos servizos. Podes obter máis información <a href="http://xornalistas.gal/info/aviso-legal/">aquí</a>. <a href="#" class="button close-button button-primary">Aceptar</a> <a href="#" class="button close-button button-primary">Rexeitar</a></p></div>
+
+
+
+
+    </body>
+</html>

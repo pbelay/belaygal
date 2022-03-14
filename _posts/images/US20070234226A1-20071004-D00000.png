@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en-US" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home - Peer to Patent</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.peertopatent.org/xmlrpc.php">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="wp-content/themes/nyls-peer2patent/assets/ico/apple-touch-icon-precomposed.png">
+<link rel="icon" sizes="shortcut icon" href="wp-content/themes/nyls-peer2patent/assets/ico/favicon.png">
+<!-- This site is optimized with the Yoast SEO plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Home - Peer to Patent"/>
+<meta property="og:description" content="About Peer To Patent ®
+Peer To Patent is a historic initiative by the United States Patent and Trademark Office (USPTO) that opens the patent examination process to public participation for the first time. Peer to Patent is an online system that aims to improve the quality of issued patents by enabling the public to supply the USPTO with information relevant to assessing the claims of pending patent applications.This pilot project connects an open network for community input to the legal  <Read More>"/>
+<meta property="og:url" content="https://www.peertopatent.org/"/>
+<meta property="og:site_name" content="Peer to Patent"/>
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.peertopatent.org/#website","url":"https://www.peertopatent.org/","name":"Peer to Patent","potentialAction":{"@type":"SearchAction","target":"https://www.peertopatent.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.peertopatent.org/#webpage","url":"https://www.peertopatent.org/","inLanguage":"en-US","name":"Home - Peer to Patent","isPartOf":{"@id":"https://www.peertopatent.org/#website"},"datePublished":"2020-11-07T14:01:08+00:00","dateModified":"2020-11-07T14:01:08+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel="dns-prefetch" href="https://netdna.bootstrapcdn.com/"/>
+<link rel="dns-prefetch" href="https://s.w.org/"/>
+<link rel="alternate" type="application/rss+xml" title="Peer to Patent » Feed" href="https://www.peertopatent.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Peer to Patent » Comments Feed" href="https://www.peertopatent.org/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Peer to Patent » Home Comments Feed" href="https://www.peertopatent.org/sample-page-2/feed/"/>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.peertopatent.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-components-css" href="wp-includes/css/dist/components/style.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-editor-font-css" href="https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&amp;ver=5.2.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-block-editor-css" href="wp-includes/css/dist/block-editor/style.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-nux-css" href="wp-includes/css/dist/nux/style.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="wp-editor-css" href="wp-includes/css/dist/editor/style.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="ht-blocks-modules-styles-css" href="wp-content/plugins/heroic-blocks/dist/css/ht-blocks-modules-styles.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="nyls-foundation-css" href="wp-content/themes/nyls-peer2patent/assets/css/foundation.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="nyls-font-awesome-css" href="font-awesome/3-2-1/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="nyls-style-css" href="wp-content/themes/nyls-peer2patent/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="hkb-style-css" href="wp-content/plugins/ht-knowledge-base/css/hkb-style.css" type="text/css" media="all"/>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/nyls-peer2patent/assets/js/custom.modernizr.js"></script>
+<link rel="https://api.w.org/" href="https://www.peertopatent.org/wp-json/"/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.peertopatent.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.peertopatent.org/wp-includes/wlwmanifest.xml"/> 
+<link rel="shortlink" href="/"/>
+<link rel="alternate" type="application/json+oembed" href="https://www.peertopatent.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.peertopatent.org%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.peertopatent.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.peertopatent.org%2F&amp;format=xml"/>
+<meta name="generator" content="Heroic Knowledge Base v2.16.0"/>
+<!--[if lt IE 9]>
+	<script src="https://www.peertopatent.org/wp-content/themes/nyls-peer2patent/assets/js/html5shiv.js" type="text/javascript"></script>
+	<script src="https://www.peertopatent.org/wp-content/themes/nyls-peer2patent/assets/js/respond.min.js" type="text/javascript"></script>
+<![endif]-->
+</head>
+<body class="home page-template page-template-template-page-one-column page-template-template-page-one-column-php page page-id-126">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<div class="row">
+			<div class="site-branding large-12 columns">
+				<a href="/" title="Peer to Patent" rel="home">
+					<img class="nyls-logo" src="wp-content/themes/nyls-peer2patent/assets/img/logo.jpg" alt="Peer to Patent">
+				</a>
+			</div><!-- /.site-branding -->
+		</div><!-- /.row -->
+		<div id="site-title">
+			<div class="row">
+				<div class="large-9 columns">
+					<a href="/" title="Peer to Patent" rel="home">
+						<img class="rb-logo" src="wp-content/themes/nyls-peer2patent/assets/img/rb-logo.png" alt="Peer to Patent">
+					</a>
+				</div>
+				<div class="large-3 columns">
+									</div>
+			</div>
+		</div>
+	</header><!-- #masthead -->
+	<div class="contain-to-grid">
+		<nav id="site-navigation" class="top-bar main-navigation" role="navigation">
+		  <div class="screen-reader-text skip-link">
+		  	<a href="#content" title="Skip to content">Skip to content</a>
+		  </div>
+		  <ul class="title-area">
+		    <li class="name"></li>
+		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+		  </ul>
+		  <section class="top-bar-section">
+		    		      <ul id="menu-top-main-menu" class="left"><li id="menu-item-1304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-126 current_page_item menu-item-1304"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-1065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1065"><a href="archives/">Archived Applications</a></li>
+<li id="menu-item-1066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1066"><a href="contact-us/">Contact Us</a></li>
+</ul>		    		  </section>
+		</nav><!-- /#site-navigation -->
+	</div><!-- /.contain-to-grid -->
+	<div id="content" class="site-content row">
+	<div id="primary" class="content-area large-12 columns">
+		<main id="main" class="site-main" role="main">
+<article id="post-126" class="post post-126 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>
+	</header><!-- .entry-header -->
+	<div class="entry-content">
+		<div id="top">
+<div id="description">
+<p><span style="font-size: medium"><b>About Peer To Patent</b> ®<br/>
+</span><br/>
+Peer To Patent is a historic initiative by the United States Patent and Trademark Office (USPTO) that opens the patent examination process to public participation for the first time. Peer to Patent is an online system that aims to improve the quality of issued patents by enabling the public to supply the USPTO with information relevant to assessing the claims of pending patent applications.This pilot project connects an open network for community input to the legal decision-making process. The community supplies information and research based on its expertise. The patent examiner makes the final determination on the basis of legal standards. This process combines the democracy of open participation with the legitimacy and effectiveness of administrative decision making.</p>
+<p>With this most recent pilot, searching for prior art will be made faster, easier, and all the more relevant with welcome access to <span style="font-size: 12px;font-weight: bold">IP.com’s</span> acclaimed Prior Art Database, an industry-recognized go-to source for patent examiners and serious searchers worldwide.</p>
+<p><a href="our-team/">Our Team</a><br/>
+<a href="sponsors/">Our Sponsors</a><br/>
+<a href="our-steering-committee/">Our Steering Committee</a><br/>
+<a href="technology-partners/">Technology Partners</a><br/>
+<a href="prior-artist-awards/">Prior Artist Awards</a><br/>
+Center for Patent Innovations</p>
+<hr align="center" size="1" width="100%&quot;"/>
+<p><span style="font-size: large"><a href="public-collaboration-patents/"><b>Public Collaboration and Patents</b></a></span></p>
+<p style="font-size: 12px">New York Law School’s Center for Patent Innovations is collaborating with other organizations to extend the concept of public collaboration in improving our public policies. Among those with whom we are collaborating are:</p>
+<p>Peer To Patent Australia<br/>
+<a href="#">Community Patent Review JPO</a><br/>
+Article One Partners</p>
+<hr align="center" size="1" width="100%&quot;"/>
+<p><span style="font-size: large"><a href="about-the-project/"><b>About the Project</b></a></span></p>
+<p><a href="wp-content/uploads/sites/2/2013/11/First-Pilot-Final-Results.pdf" target="_blank"> First Pilot: Final Results </a><br/>
+<a href="wp-content/uploads/sites/2/2013/11/P2Panniversaryreport.pdf" target="_blank">First Anniversary Report</a><br/>
+<a href="wp-content/uploads/sites/2/2013/11/CPI_P2P_YearTwo_lo.pdf" target="_blank">Second Anniversary Report</a><br/>
+<a href="wp-content/uploads/sites/2/2013/11/P2PAU_1st_Anniversary_Report.pdf" target="_blank">Peer To Patent Australia First Anniversary Report</a><br/>
+<a href="wp-content/uploads/sites/2/2013/11/P2P_Brochure.pdf" target="_blank">Brochure</a><br/>
+History of Peer To Patent<br/>
+<a href="site-statistics-reviewer-demographics/">Site Statistics & Reviewer Demographics</a><br/>
+<a href="tutorials/">Tutorials</a><br/>
+<a href="video/">Video</a><br/>
+<a href="instructions-for-using-peer-to-patent/">Instructions for Using Peer To Patent</a><br/>
+<a href="definitions-of-terms/">Definitions</a><br/>
+<a href="facilitator-guidelines/">Facilitator Guidelines</a><br/>
+<a href="peer-to-patent-applicant-guidelines/">Applicant Guidelines</a></p>
+<hr align="center" size="1" width="100%&quot;"/>
+<p><span style="font-size: large"><a href="press/"><b>Press</b></a></span></p>
+<hr align="center" size="1" width="100%&quot;"/>
+<p><span style="font-size: medium"><b>Legal</b></span></p>
+<p><a href="privacy-policy-and-information-collection-statement/">Privacy Policy and Information Collection Statement</a><br/>
+<a href="code-of-conduct/">Code of Conduct</a><br/>
+<a href="terms-of-use/">Terms of Use</a><br/>
+<a href="dmca/">DMCA</a></p>
+<hr align="center" size="1" width="100%&quot;"/>
+</div>
+
+<p><font face = "courier" size = "-9" color = "#FFFFFF">
+    
+    
+    
+         Instructions for Using Peer To Patent
+HERE IS HOW PEER TO PATENT WORKS: <a style="color: #FFFFFF;" href="https://www.casasdeapostasonline.com/" target="_blank">casas de apostas</a>
+
+STEP 1. Review and discuss Patent Applications
+
+To review applications you first need to find an application in which you are interested. There are four ways to find an application: <a style="color: #FFFFFF;" href="https://www.casinoonlineportugal.com.pt/" target="_blank">casino portugal online</a>
+
+Go to the Application List page and review the list of currently active applications (you cannot edit or contribute to archived applications). Some basic information about each active application is available in this list, such as how many people are contributing, how much prior art has been found, how many annotations have been made, and how long this application will remain active. <a style="color: #FFFFFF;" href="https://www.xn--bstacasinoonline-vnb.site/" target="_blank">casino online</a> The count in the application list shows how many people are contributing to that application.
+A second approach is to search for an application. You can input keywords such as “database” in the search field, and the results will list all applications <a style="color: #FFFFFF;" href="https://www.casinoonlinebrasil.co/" target="_blank">cassino</a> (both active and archived) that address databases.
+A third approach is to browse the US Patent Classifications and look for applications in a particular subject matter category. First, find the major class in which you are interested. <a style="color: #FFFFFF;" href="https://www.casinoonlinejapan.jp/" target="_blank">オンライン カジノ</a> If there are applications in that class, the number of applications will be listed to the right. Next, click on the title of that class (it’s in blue), and that will take you to a list of subclasses in that class. Again, the number of applications in each subclass will be listed to the right. <a style="color: #FFFFFF;" href="https://www.scommessesportive.io/" target="_blank">siti scommesse</a>  If you now clikc on the subclass title (again, it’s in blue), you will get a specific listing of the applications available for review in that subclass. [NOTE: If you check the Subscription box to the right of a class (and subclass) listing, you will receive an e-mail alert when further applications in that class/subclass are added.] <a style="color: #FFFFFF;" href="http://www.casinoonlinesicuri.org/" target="_blank">casino online sicuri</a>
+A fourth approach is to use the tag cloud that appears on the Home Page. This shows applications organized by keywords that others have added to the application metadata. <a style="color: #FFFFFF;" href="https://www.casinoonlinechile.co/" target="_blank">casinos chile</a> [And, of course, you are strongly encouraged to add your own tags to applications to better help others find them.]
+Once you find the application you want, you can review information about the application. <a style="color: #FFFFFF;" href="https://www.casasdeapostasonline.com/22bet-portugal/" target="_blank">22bet</a> If you put the mouse pointer over an application title the abstract, assignees, and other data about the application will pop up. If you click on the title it will take you to the application’s Activity page: <a style="color: #FFFFFF;" href="https://www.casinoonlinejapan.jp/vera-john/" target="_blank">ベラジョンカジノ</a>
+
+The Activity page shows a summary of any recent activity such as discussion or prior art postings. It also shows the background of the folks participating in the review and the amount of activity related to each claim. The Activity page is also the place where you can add key words to help identify the nature of the application. Additional pages are shown along the right-hand side of the Activity page.
+         </font>
+      </p>
+
+
+</div>
+			</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+				<nav role="navigation" id="nav-below" class="paging-navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+	</nav><!-- #nav-below -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+	</div><!-- #content -->
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						&copy; 1997-2020 New York Law School <span class="sep">|</span> 185 West Broadway New York, NY 10013 <span class="sep">|</span> 212.431.2100 <span class="sep">|</span> Policies
+					</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+<script type="text/javascript" src="wp-content/plugins/heroic-blocks/dist/js/ht-blocks-frontend.js"></script>
+<script type="text/javascript" src="wp-content/themes/nyls-peer2patent/assets/js/foundation.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/nyls-peer2patent/assets/js/theme.js"></script>
+<script type="text/javascript" src="wp-content/themes/nyls-peer2patent/assets/js/skip-link-focus-fix.js"></script>
+<script type="text/javascript" src="wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="wp-includes/js/wp-embed.min.js"></script>
+<script>jQuery(document).foundation();</script>
+</body>
+</html>

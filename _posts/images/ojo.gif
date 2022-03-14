@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Personarte ~ Eneagrama para todos</title>
+<!--<link rel='dns-prefetch' href='//fonts.googleapis.com' />-->
+<!-- Test-->
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta http-equiv="Refresh" content="10;url=https://eneagrama.personarte.com/">
+<link rel="icon" href="https://i0.wp.com/eneagrama.personarte.com/wp-content/uploads/2018/07/Favicon.png?fit=32%2C32" sizes="32x32" />
+	<link rel="icon" href="https://i0.wp.com/eneagrama.personarte.com/wp-content/uploads/2018/07/Favicon.png?fit=192%2C192" sizes="192x192" />
+	<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/eneagrama.personarte.com/wp-content/uploads/2018/07/Favicon.png?fit=180%2C180" />
+	<meta name="msapplication-TileImage" content="https://i0.wp.com/eneagrama.personarte.com/wp-content/uploads/2018/07/Favicon.png?fit=270%2C270" />
+
+<!-- Fin Test-->
+<!-- Código Wordpress-->
+
+<link rel='stylesheet' id='fluida-googlefonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%7COpen+Sans+Condensed300%7COpen+Sans%3A400%7COpen+Sans+Condensed%3A300%2C300%7COpen+Sans%3A700%7COpen+Sans%3A300&#038;ver=1.3.0' type='text/css' media='all' />
+
+<style id='amadeus-style-inline-css' type='text/css'>
+html {
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.8;
+}
+.site-branding { padding:10px 0; text-align:center; }
+.header-image { height:300px; }
+@media only screen and (max-width: 1024px) { .header-image { height:300px; } }
+.site-logo { max-width:250px; }
+.custom-logo { max-width:250px;  }
+a, a:hover, .main-navigation a:hover, .nav-next a:hover, .nav-previous a:hover, .social-navigation li a:hover { color:#0085b2; !important;}
+button, .button, input[type="button"], input[type="reset"], input[type="submit"], .entry-thumb-inner { background-color:#008728}
+body, .widget a { color:#333333}
+.social-navigation { background-color:#fff}
+.social-navigation li a::before { background-color:#1c1c1c}
+.branding-wrapper { background-color:#000}
+.main-navigation { background-color:#f5f5f5}
+.main-navigation a { color:#666666 !important;}
+.site-title a, .site-title a:hover { color:#1c1c1c !important;}
+.site-description { color:#767676}
+.entry-title, .entry-title a { color:#1c1c1c !important; text-align:center;}
+.entry-content { text-align:center;}
+.entry-meta, .entry-meta a, .entry-footer, .entry-footer a { color:#0085b2; !important;}
+.site-footer, .footer-widget-area { text-align:center;}
+.site-description { font-size:16px; }
+h1 { font-size:26px; }
+h2 { font-size:24px; }
+h3 { font-size:22px; }
+body { font-size:16px; }
+p {margin:0!important;}
+
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f5f5f5;margin:0 }
+</style>
+<!--<style type="text/css" media="print">#thsp-sticky-header { display:none; }#site-navigation { display:none; } #compartelo { display:none; } .header-image { height:150px; } .mobile.nav { display:none; }</style>-->
+
+<script type='text/javascript' src='https://eneagrama.personarte.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://eneagrama.personarte.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+		
+<!-- Fin Código Wordpress-->
+
+
+</head>
+
+<body class="page page-template page-template-page_fullwidth page-template-page_fullwidth-php custom-background wp-custom-logo">
+<div id="page" class="hfeed site">
+<!-- Header-->
+	<header id="masthead" class="site-header clearfix" role="banner">
+<div class="branding-wrapper">
+			<div class="container">
+				<div class="site-branding">
+					<a href="https://eneagrama.personarte.com/" id="logo" class="custom-logo-link" title="Personarte" rel="home"><img src="https://eneagrama.personarte.com/wp-content/uploads/2018/07/Logo_Personarte_Bco.svg" class="custom-logo" alt="Personarte" /></a>				</div><!-- .site-branding -->
+			</div>
+		</div>
+		
+	</header><!-- Fin Header -->
+
+		
+	<div id="content" class="site-content container">
+
+
+
+	<div id="primary" class="fullwidth">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article class="page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">¡Vaya! Está página no se encuentra.</h1>	
+		</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    <!-- Test-->
+		<section>
+        <p>Te invitamos a conocer el nuevo sitio de Personarte.</p>
+        <p>En los próximos segundos serás redireccionado en forma automática.</p>
+        <p>Si quieres llegar más rápido, presiona este <a href="https://www.eneagrama.personarte.com/"><strong>link</strong></a>.<br>
+          <br> 
+          <!-- Contenido-->    
+          
+          <!-- Fin Contenido-->     
+          
+        </p>
+        <div class="clearfix"></div>
+          <hr> 
+          <!-- Fin Test-->
+		  			
+    
+    </section>
+     
+</div>
+
+
+</article><!-- #post-## -->
+
+				
+			
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+	
+	
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+	
+		<div class="site-info container">
+			<p>&nbsp;</p>
+			<p>&#169; 2004-2020 <a href="https://www.eneagrama.personarte.com/quienes-somos"><strong>Personarte</strong></a>. Todos los derechos reservados.
+		    </p>
+			<p>&nbsp;</p>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+
+</body>
+</html>
