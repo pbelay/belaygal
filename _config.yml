@@ -21,7 +21,7 @@
 title: Pablo Belay
 email: pbelay@gmail.com 
 description: > Cousas miñas e outras burradas
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # "/" # the subpath of your site, e.g. /blog
 url: "https://pbelay.github.io/belaygal/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: belay
 github_username:  pbelay
