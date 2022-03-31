@@ -34,6 +34,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 #tema
-
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
 
