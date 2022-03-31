@@ -27,8 +27,8 @@ twitter_username: belay
 github_username:  pbelay
 
 # Build settings
-# theme: minima
-theme: minimal-mistakes-jekyll
+ theme: minima
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
