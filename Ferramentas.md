@@ -2,6 +2,7 @@
 * [Asciinema](https://asciinema.org/). Creación de vídeos coa sesión de comandos.
 * [Byobu](https://byobu.co/). Terminal.
 * [Terminator](https://github.com/gnome-terminator/terminator). 
+* [Veracript](https://www.veracrypt.fr/en/Home.html) , cifrado de discos portable. 
 
 ## Desenvolvemento 
 ### GitHub
