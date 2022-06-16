@@ -5,8 +5,8 @@
 
 ## Desenvolvemento 
 ### GitHub
-* https://jekyllrb.com/docs/ ,Jekyll é un xestor de sitios web empregando Ruby e githuhpages. 
-* https://prose.io/ Editor online para sitios con Jekyll. 
+* [Jekyll](https://jekyllrb.com/docs/) , é un xestor de sitios web empregando Ruby e github pages. 
+* [prose](https://prose.io/) Editor online para sitios con Jekyll. 
 * Chuleta [markdown](http://josema966.gitlab.io/chuleta-markdown.html). 
 * 
 
