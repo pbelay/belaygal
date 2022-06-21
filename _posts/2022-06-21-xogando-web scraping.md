@@ -123,7 +123,6 @@ Hai que evolucionar o código para xerar por exemplo CSVs coa información estru
 Fontes: 
 * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 * [Exemplo de scraping con CSV](https://pharos.sh/guia-para-analizar-html-con-beautifulsoup-en-python/)
-* []()
-* []()
+* [Exemplo con facebook](https://es.acervolima.com/implementando-web-scraping-en-python-con-beautifulsoup/)
 * [j2Logo](https://j2logo.com/python/web-scraping-con-python-guia-inicio-beautifulsoup/)
 
