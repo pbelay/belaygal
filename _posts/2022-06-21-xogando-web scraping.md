@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Xogando con web scraping en Python
 Para realizar web scraping en Python é preciso empregar as seguintes librerías.
