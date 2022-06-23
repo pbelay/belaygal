@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ##Git chuleta
 >git init
@@ -26,4 +26,4 @@ published: false
 * [Repo coa documentación](https://github.com/pbelay/curso-git)
 * [Práctica día 01](https://github.com/pbelay/ejemplo-repo-1)
 * [Práctica dia 02](https://github.com/pbelay/RepoCursoDia02/blob/main/principal.md)
-* 
+* [Outras tarefas](https://github.com/CursoGit22)
