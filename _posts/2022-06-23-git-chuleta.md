@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##Git chuleta
+## Git chuleta
 >git init
 
 >git status
