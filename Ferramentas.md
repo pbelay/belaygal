@@ -29,3 +29,5 @@
 * [Glosario de termos informáticos en PDF (UVIGO)](https://revistas.webs.uvigo.es/index.php/viceversa/article/download/2219/2254)
 * [Glosario básico inglés-galego sobre a Internet
  ](https://galego.org/vocabularios/internet.html)
+* [USC: Dicionarios, vocabularios e glosarios terminolóxicos galegos
+](https://www.usc.gal/gl/servizos/snl/terminoloxia/biblio-term_INF.html)
