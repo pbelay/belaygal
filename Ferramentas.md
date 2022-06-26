@@ -24,6 +24,7 @@
 * [Dicionario Estraviz](https://estraviz.org/)
 * [Dicionario Rinoceronte: Castelán-Galego](https://rinoceronte.gal/dicionario/)
 * [Tradutor Gaio](http://tradutorgaio.xunta.gal/) 
+
 ### Glosarios de informática 
 * [TERGAL](http://bernal.cirp.gal/ords/f?p=TERGAL:6), é un banco de datos terminolóxico que recolle as denominacións galegas recomendadas para diversos conceptos das linguas de especialidade. 
 * [Glosario de termos informáticos en PDF (UVIGO)](https://revistas.webs.uvigo.es/index.php/viceversa/article/download/2219/2254)
