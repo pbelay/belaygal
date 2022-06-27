@@ -34,10 +34,15 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'jekyll-paginate'
 #tema
-gem "just-the-docs"
+#gem "just-the-docs"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-theme-chirpy"
 #gem "webrick", "~> 1.7"
 #gem "rake"
 
+#xerador galeria
+gem 'rmagick'
+gem 'exifr'
+
+gem 'jekyll-gallery-generator'
 
