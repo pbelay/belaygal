@@ -37,4 +37,7 @@ gem 'jekyll-paginate'
 gem "just-the-docs"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-theme-chirpy"
-gem "rake"
+#gem "webrick", "~> 1.7"
+#gem "rake"
+
+

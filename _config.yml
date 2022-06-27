@@ -24,10 +24,9 @@ baseurl: # "/" # the subpath of your site, e.g. /blog
 url: "https://pbelay.github.io/belaygal/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: belay
 github_username:  pbelay
-paginate: 10 
 # Build settings
 #theme: minima
-theme: rake
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
