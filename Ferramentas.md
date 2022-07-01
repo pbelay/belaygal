@@ -19,6 +19,10 @@
 ### Python 
 * [flask](https://flask.palletsprojects.com/en/2.1.x/)
 
+
+## Hardware 
+* [Guías de reparación](https://es.ifixit.com/)
+
 ## Lingua 
 * [Dicionario RAG](https://academia.gal/dicionario)
 * [Dicionario Estraviz](https://estraviz.org/)
@@ -32,3 +36,5 @@
  ](https://galego.org/vocabularios/internet.html)
 * [USC: Dicionarios, vocabularios e glosarios terminolóxicos galegos
 ](https://www.usc.gal/gl/servizos/snl/terminoloxia/biblio-term_INF.html)
+
+

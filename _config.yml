@@ -66,6 +66,7 @@ gallery:
   galleries:
     viaxe01:
       best_image: 01.JPG  # The image to show on the gallery index page. Defaults to the last image.
+      sort_reverse: true 
     viaxe02:
       hidden: true          # Don't show this gallery on the index page. People must guess the URL.
       best_image: 02.JPG
