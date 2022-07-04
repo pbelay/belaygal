@@ -1,3 +1,3 @@
 ``` bash 
-npm install @mermaid-js/mermaid-cli
+npm install @mermaid-js/mermaid-cli 
 ```
