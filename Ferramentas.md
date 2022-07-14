@@ -8,6 +8,8 @@
 * [Winget](https://docs.microsoft.com/es-es/windows/package-manager/winget/) , instalador de paquetes de Windows dende a liña de comandos. A [documentación](https://docs.microsoft.com/es-es/windows/package-manager/winget/). Sitios web de axuda como: [https://winget.run/](https://winget.run/) e [https://winstall.app/](https://winstall.app/)
 * [Chocolatey](https://chocolatey.org), instalador de paquetes dende a liña de comandos. A [documentación](https://chocolatey.org)
 
+### Linux
+
 ## Desenvolvemento 
 
 ### GitHub
@@ -24,6 +26,8 @@
 * [Guías de reparación](https://es.ifixit.com/)
 
 ## Lingua 
+
+### Dicionarios 
 * [Dicionario RAG](https://academia.gal/dicionario)
 * [Dicionario Estraviz](https://estraviz.org/)
 * [Dicionario Rinoceronte: Castelán-Galego](https://rinoceronte.gal/dicionario/)
@@ -37,4 +41,5 @@
 * [USC: Dicionarios, vocabularios e glosarios terminolóxicos galegos
 ](https://www.usc.gal/gl/servizos/snl/terminoloxia/biblio-term_INF.html)
 
-
+# Outros
+* [Ferramentas para o control de plaxios](https://www.xataka.com/basics/programas-gratis-profesores-detecten-plagios-trabajos-alumnos)
