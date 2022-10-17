@@ -43,5 +43,10 @@
 * [USC: Dicionarios, vocabularios e glosarios terminolóxicos galegos
 ](https://www.usc.gal/gl/servizos/snl/terminoloxia/biblio-term_INF.html)
 
+# Aula virtual
+* [OpeneLearning](https://www.openelearning.org/)
+* [eXelearning](https://exelearning.net/gl/ 
+
+
 # Outros
 * [Ferramentas para o control de plaxios](https://www.xataka.com/basics/programas-gratis-profesores-detecten-plagios-trabajos-alumnos)
