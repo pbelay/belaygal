@@ -5,6 +5,7 @@ No tiro con arco, a elección da postura inflúe directamente na estabilidade, p
 
 A postura cadrada destaca pola súa naturalidade e facilidade de reprodución, pero ofrece unha base de apoio limitada e pode xerar inestabilidade en condicións de vento. A postura aberta, pola súa banda, proporciona unha base de apoio máis estable e mellora a distancia coa corda, aínda que pode inducir unha maior rotación do torso e un uso excesivo do brazo no tensado do arco. Por último, a postura pechada favorece unha boa aliñación do corpo co obxectivo, aínda que reduce a distancia coa corda e pode aumentar a tendencia a sobre-tensar ou afastarse do obxectivo.
 
+![]([https://ibb.co/vxF7zZcc](https://i.ibb.co/Z6jnTWff/2025-03-12.png)) 
 ![](./images/2025-03-12.png)
 
 | Tipo de postura | Vantaxes | Desvantaxes |
